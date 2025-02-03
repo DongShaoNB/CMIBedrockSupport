@@ -58,7 +58,7 @@ dependencies {
     // EssentialsX
     compileOnly("net.essentialsx:EssentialsX:2.20.1")
     // HuskHomes
-    compileOnly("net.william278.huskhomes:huskhomes-bukkit:4.9")
+    compileOnly("net.william278.huskhomes:huskhomes-bukkit:4.9.1")
     // AdvancedTeleport
     compileOnly(files("lib/AdvancedTeleport-Bukkit-6.1.1-all.jar"))
     // nightcore
